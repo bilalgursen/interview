@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
-import Input from "./ui/input";
-import { Todos } from "../types/typeTodos";
+import Input from "../../components/ui/input";
+import { Todos } from "../../types/typeTodos";
 
 export default function Todo() {
   const [todo, setTodo] = useState<string>("");

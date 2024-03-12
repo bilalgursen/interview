@@ -1,4 +1,4 @@
-import Country from "../components/country";
+import Country from "../containers/Country/country";
 
 const page = () => {
   return <Country />;

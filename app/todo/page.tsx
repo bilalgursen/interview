@@ -1,4 +1,4 @@
-import Todo from "../components/todo";
+import Todo from "../containers/Todo/todo";
 export default function page() {
   return (
     <>
