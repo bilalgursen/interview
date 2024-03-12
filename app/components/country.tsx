@@ -3,7 +3,7 @@ export default function Country() {
     <>
       <div className="h-screen flex flex-col justify-center items-center">
         <h1 className="text-xl">
-          Buraya Ülkeler ve beraberşnde bir çok özellik geliyor olucak 🌿
+          Buraya Ülkeler ve beraberinde bir çok özellik geliyor olucak 🌿
         </h1>
       </div>
     </>
